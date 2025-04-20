@@ -15,7 +15,7 @@ app = Flask(__name__)
 
 # Configuration
 CONFIG = {
-    "canvas_size": (1080, 1920),
+    "canvas_size": (1088, 1920),
     "output_dir": "generated_images",
     "video_output_dir": "generated_videos",
     "font_path": "fonts/Poppins-Regular.ttf",
